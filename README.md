@@ -8,4 +8,4 @@ their might be some error so let me know i will correct it and upload again.
 
 If you are new to this i would suggest you to do this by yourself you will learn a lot.
 
-The verilog code is the implementation of pipelined fir structure that is shown in page no. 7 of the filter report.
+The verilog code is the implementation of pipelined fir structure that is shown in page no. 6 of the filter report.
